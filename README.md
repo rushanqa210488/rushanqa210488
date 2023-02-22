@@ -1,16 +1,13 @@
+
+
+
+#HELLO EVERYONE!
+## My name is Rushan
+### I'm QA Engineer
+
+- I am learning autotesting in Python
+- I'm working on the project [click] (https://github.com/rushanqa210488/main_project1.git)
+
+### Languages and markups
+
 ### Hi there 👋
-
-<!--
-**rushanqa210488/rushanqa210488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
